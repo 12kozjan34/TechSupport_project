@@ -1,0 +1,121 @@
+﻿@using System.Security.Claims;
+@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor httpContextAccessor
+@{
+    string role = httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Role)?.Value;
+    string username = httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Name)?.Value;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head class="bg-dark">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ePodrska</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Tech_Support.styles.css" asp-append-version="true" />
+    <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="../wwwroot/img/favicon.png">
+    <link rel="stylesheet" href="/css/Nav.css">
+    <link rel="stylesheet" href="/css/Main.css"/>
+    <script src="https://kit.fontawesome.com/dc1da332a4.js" crossorigin="anonymous"></script>
+    <title>
+        Material Dashboard 2 by Creative Tim
+    </title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="wrapper">
+                <div class="logo"><a asp-controller="Annonimous" asp-action="Index">Tech Support</a></div>
+                <input type="radio" name="slider" id="menu-btn">
+                <input type="radio" name="slider" id="close-btn">
+                <ul class="nav-links">
+                    <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
+                    @if (username == null)
+                    {
+                        <li>
+                            <a asp-controller="Access" asp-action="Login">Login</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li id="logout">
+                            <a asp-controller="Access" asp-action="Logout">Logout @username</a>
+                        </li>
+                    }
+                    @if (role == "Admin")
+                    {
+                        <li>
+                            <a href="#" class="desktop-item">Admin</a>
+                            <input type="checkbox" id="showDrop">
+                            <label for="showDrop" class="mobile-item">Admin</label>
+                            <ul class="drop-menu">
+                                <li>
+                                    <a asp-controller="Admin" asp-action="Index">Admin</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Admin" asp-action="Users">Users</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Admin" asp-action="Companies">Companies</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Admin" asp-action="Requests">Requests</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Admin" asp-action="Statistics">Statistics</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Admin" asp-action="Xml">Xml</a>
+                                </li>
+                            </ul>
+                        </li>
+                    }
+                    @if (role == "Moderator")
+                    {
+                        <li>
+                            <a href="#" class="desktop-item">Voditelj</a>
+                            <input type="checkbox" id="showDrop">
+                            <label for="showDrop" class="mobile-item">Moderator</label>
+                            <ul class="drop-menu">
+                                <li>
+                                    <a asp-controller="Moderator" asp-action="Index">Moderator</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Moderator" asp-action="AddEmploye">Add employer</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Moderator" asp-action="EmployerRankings">Rankings</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Moderator" asp-action="QuestionsAndRequests">Requests</a>
+                                </li>
+                            </ul>
+                        </li>
+                    }
+                    @if (role == "User")
+                    {
+                        <li>
+                            <a asp-controller="Registered" asp-action="Index">Questions</a>
+                        </li>
+                    }
+                    <li>
+                        <a asp-controller="Annonimous" asp-action="Index">Home</a>
+                    </li>
+                </ul>
+                <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

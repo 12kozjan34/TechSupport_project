@@ -1,0 +1,39 @@
+﻿@using Tech_Support.ViewModels
+@model IEnumerable<VMCompany>
+@{
+}
+
+<html>
+<head>
+    <title>Admin - Companies</title>
+    <link rel="stylesheet" href="/css/Admin/Companies.css"/>
+</head>
+<body>
+    <div class="heading-container">
+        <h1>List of all companies</h1>
+        <button class="btn">
+            <a href="@Url.Action("CreateCompany", "Admin")">Create new company</a>
+        </button>
+    </div>
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th>Name</th>
+            <th>Moderator name</th>
+            <th>Description</th>
+            <th>Employers</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Naziv</td>
+                <td>@item.Moderator.KorisnickoIme</td>
+                <td>@item.Opis</td>
+                <td>@item.BrojZaposlenika</td>
+                <td>
+                    <a href="@Url.Action("EditCompany", "Admin", new { id = item.TvrtkaId })">Edit</a>
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

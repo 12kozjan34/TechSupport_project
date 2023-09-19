@@ -1,0 +1,67 @@
+﻿@using Tech_Support.ViewModels
+@model VMUser
+@{
+}
+<html>
+    <head>
+        <title>Admin - Edit User</title>
+        <style>
+            .btn{
+                border-radius: 20px;
+                border: 1px solid #FF4B2B;
+                background-color: #FF4B2B;
+                color: #FFFFFF;
+                font-size: 12px;
+                font-weight: bold;
+                padding: 12px 45px;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                transition: transform 80ms ease-in;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="EditUser" asp-controller="Admin">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <input type="hidden" asp-for="KorisnikId" />
+                        <label asp-for="Ime" class="control-label">Name</label>
+                        <input asp-for="Ime" class="form-control" />
+                        <span asp-validation-for="Ime" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Prezime" class="control-label">Last name</label>
+                        <textarea asp-for="Prezime" class="form-control"></textarea>
+                        <span asp-validation-for="Prezime" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="KorisnickoIme" class="control-label">Username</label>
+                        <textarea asp-for="KorisnickoIme" class="form-control"></textarea>
+                        <span asp-validation-for="KorisnickoIme" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label">Email</label>
+                        <textarea asp-for="Email" class="form-control"></textarea>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="TipId" class="control-label">User type</label>
+                        <select asp-for="TipId">
+                            <option id="TipId" value="1">Voditelj</option>
+                            <option id="TipId" value="2">Korisnik</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
+
+

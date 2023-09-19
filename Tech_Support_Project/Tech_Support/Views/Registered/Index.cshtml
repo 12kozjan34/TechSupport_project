@@ -1,0 +1,54 @@
+﻿@using Tech_Support.ViewModels;
+@{
+    IEnumerable<VMQuestion> unanswered = ViewData["UnansweredQ"] as IEnumerable<VMQuestion>;
+    IEnumerable<VMQuestion> answered = ViewData["AnsweredQ"] as IEnumerable<VMQuestion>;
+}
+
+<html>
+    <head>
+        <title>Questions</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="/js/Registered/Index.js"></script>
+        <link rel="stylesheet" href="/css/Registered/Index.css"/>
+    </head>
+    <body>
+    <h1>Registered user page</h1>
+    <div class="container">
+        <p>Unaswered questions: </p>
+        @foreach (var item in unanswered)
+        {
+            <li class="accordion-item">
+                @item.Naslov
+                <div class="additional-info">
+                    @item.Tekst -> @item.DatumVrijemePitanja
+                    <br />
+                    <form asp-action="AnswerQuestion" asp-controller="Registered" method="get">
+                        <input type="hidden" value="@item.PitanjeId" name="id"/>
+                        <button type="submit" class="btn btn-primary">Odgovori</button>
+                    </form>
+                </div>
+            </li>
+        }
+
+        <p>Answered questions: </p>
+        @if (answered.Count() == 0)
+        {
+            <p>There are no answered questions</p>
+        }else
+        {
+            @foreach (var item in answered)
+                {
+                    <li class="accordion-item">
+                        @item.Naslov
+                        <div class="additional-info">
+                            @item.Tekst -> @item.DatumVrijemePitanja
+                        </div>
+                    </li>
+                }
+        }
+        <footer class="alert-primary">
+            <p>Number of unanswered questions: @ViewData["Count"]</p>
+        </footer>
+    </div>
+    </body>
+</html>

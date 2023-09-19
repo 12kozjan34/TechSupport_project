@@ -1,0 +1,30 @@
+﻿@using Tech_Support.ViewModels
+@model IEnumerable<VMUser>
+@{
+}
+<html>
+    <head>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <title>Moderator - Add new employe</title>
+        <link rel="stylesheet" href="/css/Moderator/AddEmploye.css"/>
+        <script src="/js/Moderator/AddEmploye.js"></script>
+    </head>
+    <body>
+        <h1>Add new employee</h1>
+        <p>Select user:</p>
+        <div class="col-md-4">
+            <select id="employeeSelect">
+                <option value="0">Choose</option>
+                @foreach (var item in Model)
+                {
+                    <option value="@item.KorisnikId">@item.Ime @item.Prezime</option>
+                }
+            </select>
+        </div>
+        <br />
+            @* <input type="hidden" id="selectedItem" name="selectedItem" value="" /> *@
+            <div class="form-group">
+                <button type="submit" id="selectedItem" name="selectedItem" class="btn btn-primary submitBtn">Add Employe</button>
+            </div>
+    </body>
+</html>

@@ -1,0 +1,56 @@
+﻿@using Tech_Support.ViewModels
+@model IEnumerable<VMUser>
+@{
+}
+
+<html>
+    <head>
+        <title>Admin - Create Company</title>
+        <link rel="stylesheet" href="~/css/Admin/CreateCompany.css" />
+    </head>
+    <body>
+        <div class="row">
+            <h2>Create New Company</h2>
+            <form asp-action="CreateCompany" asp-controller="Admin" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="form-group">
+                    <label for="Naziv">Title:</label>
+                    <input type="text" class="form-control" id="Naziv" name="Naziv" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="Moderator.KorisnickoIme">Moderator name:</label>
+                    <br />
+                    @if (Model.Count() == 0)
+                    {
+                        <p>There are no moderators to join company</p>
+                    }
+                    else
+                    {
+                        <select id="dropDown" name="id">
+                            @foreach (var item in Model)
+                            {
+                                <option value="@item.KorisnikId">@item.KorisnickoIme</option>
+                            }
+                        </select>
+                    }
+                </div>
+
+                <div class="form-group">
+                    <label for="Opis">Description:</label>
+                    <input type="text" class="form-control" id="Opis" name="Opis" required>
+                </div>
+
+                @if (Model.Count() == 0)
+                {
+                    <button type="submit" class="btn" disabled>Create User</button>
+                }
+                else
+                {
+                    <button type="submit" class="btn">Create Company</button>
+                }
+            </form>
+        </div>
+    </body>
+</html>

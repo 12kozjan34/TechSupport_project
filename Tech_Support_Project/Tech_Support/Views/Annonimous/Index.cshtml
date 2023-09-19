@@ -1,0 +1,33 @@
+﻿@using Tech_Support.ViewModels;
+@model Tech_Support.ViewModels.DropDownModel
+@{
+}
+
+<html>
+    <head>
+        <title>Tech support</title>
+        <script src="/js/Annonimous/Index.js"></script>
+        <link rel="stylesheet" href="/css/Annonimous/Index.css" />
+    </head>
+    <body>
+        <h1>Tech support</h1>
+
+        <p>Select s company:</p>
+        <select id="companyDropdown">
+            <option value="0">Choose</option>
+            @foreach (var item in Model.Companies)
+            {
+                <option value="@item.TvrtkaId" class="dropdown-item">@item.Naziv</option>
+            }
+        </select>
+        <br />
+        <br />
+        <div id="questions"></div>
+
+        <form asp-action="SendQuestion" method="get">
+            <div class="form-group">
+                <input class="btn btn-primary shadow" type="submit" value="Send Question" />
+            </div>
+        </form>
+    </body>
+</html>

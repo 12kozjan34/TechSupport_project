@@ -1,0 +1,69 @@
+﻿@using Tech_Support.ViewModels
+@model Tech_Support.ViewModels.VMUser
+@{
+}
+
+<html>
+    <head>
+        <title>Admin - Create User</title>
+        <style>
+            .btn{
+                border-radius: 20px;
+                border: 1px solid #FF4B2B;
+                background-color: #FF4B2B;
+                color: #FFFFFF;
+                font-size: 12px;
+                font-weight: bold;
+                padding: 12px 45px;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                transition: transform 80ms ease-in;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="user-form-container">
+            <h2>Create New User</h2>
+            <form asp-action="CreateUser" asp-controller="Admin" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="form-group">
+                    <label for="KorisnickoIme">Username:</label>
+                    <input type="text" class="form-control" id="KorisnickoIme" name="KorisnickoIme" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="Ime">Name:</label>
+                    <input type="text" class="form-control" id="Ime" name="Ime" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="Prezime">Last Name:</label>
+                    <input type="text" class="form-control" id="Prezime" name="Prezime" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="Email">Email:</label>
+                    <input type="text" class="form-control" id="Email" name="Email" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="TipId">Email:</label>
+                    <select asp-for="TipId">
+                        <option id="TipId" value="1">Voditelj</option>
+                        <option id="TipId" value="2">Korisnik</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="Lozinka">Password:</label>
+                    <input type="text" class="form-control" id="Lozinka" name="Lozinka" required>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Create User</button>
+            </form>
+        </div>
+    </body>
+</html>
+
+

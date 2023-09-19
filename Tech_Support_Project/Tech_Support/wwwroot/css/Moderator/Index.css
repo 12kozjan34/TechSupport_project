@@ -1,0 +1,43 @@
+﻿/* Style the header */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Style the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table th {
+    background-color: #FF4B2B;
+    color: #fff;
+}
+
+/* Style the table rows */
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Style the "Add new employee" button */
+button.btn-primary {
+    background-color: #FF4B2B;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button.btn-primary:hover {
+    background-color: #0056b3;
+}

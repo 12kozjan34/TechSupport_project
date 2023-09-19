@@ -1,0 +1,18 @@
+﻿@using Tech_Support.ViewModels
+@model Tech_Support.ViewModels.Login
+@{
+}
+<link rel="stylesheet" href="/css/Login.css">
+<div class="form-container sign-in-container">
+		<form asp-action="Login" asp-controller="Access" method="post">
+		<h1>Sign in</h1>
+		<div class="input">
+			<input name="Username" type="text" placeholder="Username" required id="usernameInput" />
+			<span asp-validation-for="Username" class="text-danger"></span>
+			<input name="Password" type="password" placeholder="Password" required />
+			<span asp-validation-for="Password" class="text-danger"></span>
+			<button type="submit">Sign In</button>
+			@Html.ValidationSummary(false, "", new { @class = "text-danger" })
+		</div>
+	</form>
+</div>

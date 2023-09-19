@@ -1,0 +1,665 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tech_Support.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tech_Support.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo.eot"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo.woff"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\Fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\BlockedAccounts.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\BlockedAccounts.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Companies.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\Companies.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\CreateCompany.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\CreateCompany.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Users.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\Users.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Annonimous\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Annonimous\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Annonimous\\SendQuestion.css",
+      "PackagePath": "staticwebassets\\css\\Annonimous\\SendQuestion.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\AnswerQuestion.css",
+      "PackagePath": "staticwebassets\\css\\AnswerQuestion.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Main.css",
+      "PackagePath": "staticwebassets\\css\\Main.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Moderator\\AddEmploye.css",
+      "PackagePath": "staticwebassets\\css\\Moderator\\AddEmploye.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Moderator\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Moderator\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Nav.css",
+      "PackagePath": "staticwebassets\\css\\Nav.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Registered\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Registered\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\chat.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\images\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\images\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\images\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\images\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\images\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\images\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\korisnici\\admin.jpg",
+      "PackagePath": "staticwebassets\\images\\korisnici\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\images\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\images\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-7-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\images\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Annonimous\\Index.js",
+      "PackagePath": "staticwebassets\\js\\Annonimous\\Index.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Moderator\\AddEmploye.js",
+      "PackagePath": "staticwebassets\\js\\Moderator\\AddEmploye.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Registered\\Index.js",
+      "PackagePath": "staticwebassets\\js\\Registered\\Index.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\countup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\countup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Tech_Support.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Tech_Support.props",
+      "PackagePath": "build\\Tech_Support.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Tech_Support.props",
+      "PackagePath": "buildMultiTargeting\\Tech_Support.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Tech_Support.props",
+      "PackagePath": "buildTransitive\\Tech_Support.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

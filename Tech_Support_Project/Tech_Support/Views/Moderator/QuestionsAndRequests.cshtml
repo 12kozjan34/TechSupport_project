@@ -1,0 +1,107 @@
+﻿@using Tech_Support.ViewModels;
+@{
+    IEnumerable<VMQuestion> unanswered = ViewData["UnansweredQ"] as IEnumerable<VMQuestion>;
+    IEnumerable<VMQuestion> answered = ViewData["AnsweredQ"] as IEnumerable<VMQuestion>;
+    bool request = (bool)ViewData["Request"];
+    string alertClass = request ? "alert-danger" : "alert-success";
+}
+
+<html>
+<head>
+    <title>Questions</title>
+    <style>
+        .accordion-item {
+            cursor: pointer;
+            background-color: #f8f9fa;
+            border: 1px solid #ccc;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+            .accordion-item:hover {
+                background-color: #e9ecef;
+            }
+
+            .accordion-item h5 {
+                margin: 0;
+                padding: 10px;
+            }
+
+        .additional-info {
+            display: none;
+            background-color: #fff;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome moderator</h1>
+    <p>Here you can see all questions for your company:</p>
+    <div class="container">
+        <p>Unaswered questions: </p>
+        @foreach (var item in unanswered)
+        {
+            <li class="accordion-item">
+                @item.Naslov
+                <div class="additional-info">
+                    @item.Tekst -> @item.DatumVrijemePitanja
+                </div>
+            </li>
+        }
+
+        <p>Answered questions: </p>
+        @if (answered.Count() == 0)
+        {
+            <p>There are no answered questions</p>
+        }
+        else
+        {
+            @foreach (var item in answered)
+            {
+                <li class="accordion-item">
+                    @item.Naslov
+                    <div class="additional-info">
+                        @item.Tekst -> @item.DatumVrijemePitanja
+                    </div>
+                </li>
+            }
+        }
+
+            <div class="alert @alertClass" role="alert">
+                @if (request == false)
+                {
+                    <strong>
+                        <p>Send request for more questions:</p>
+                        <form asp-action="QuestionsAndRequests" asp-controller="Voditelj" method="post">
+                            <input type="hidden" value="true" name="request" />
+                            <button id="btn" type="submit" class="btn btn-primary">Send request</button>
+                        </form>
+                    </strong>
+                }
+                else
+                {
+                    <strong>At this moment you can't send any new requests</strong>
+                }
+            </div>
+
+        <footer class="alert-primary">
+            <p>Number of unanswered questions: @ViewData["Count"]</p>
+        </footer>
+    </div>
+</body>
+</html>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".accordion-item").click(function () {
+            $(this).find(".additional-info").slideToggle();
+            $(".accordion-item").not(this).find(".additional-info").slideUp();
+        });
+
+        $("#btn").click(function () {
+            
+        });
+    });
+</script>

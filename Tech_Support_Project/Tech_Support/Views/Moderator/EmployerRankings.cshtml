@@ -1,0 +1,24 @@
+﻿@using Tech_Support.ViewModels;
+@{
+    List<VMEmployerRanking> rankings = ViewData["EmployerRanking"] as List<VMEmployerRanking>;
+}
+<h1>Employer rankings</h1>
+<p>This is list of emplyes by the amount of questions that they have answered</p>
+
+<div class="container mt-4">
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th>Employer</th>
+            <th>Email</th>
+            <th>Questions answered</th>
+        </tr>
+        @foreach (var item in rankings)
+        {
+            <tr> 
+                <td>@item.Eployer.Ime @item.Eployer.Prezime</td>
+                <td>@item.Eployer.Email</td>
+                <td>@item.NumberOfQuestions</td>
+            </tr>
+        }
+    </table>
+</div>

@@ -1,0 +1,53 @@
+﻿@using Tech_Support.ViewModels
+@model IEnumerable<VMCompany>
+@{
+}
+
+<html>
+    <head>
+        <title>Admin - Requests</title>
+        <style>
+            .btn{
+                border-radius: 20px;
+                border: 1px solid #FF4B2B;
+                background-color: #FF4B2B;
+                color: #FFFFFF;
+                font-size: 12px;
+                font-weight: bold;
+                padding: 12px 45px;
+                letter-spacing: 1px;
+                transition: transform 80ms ease-in;
+            }
+        </style>
+    </head>
+    <body>
+        @if (Model.Count() == 0)
+        {
+            <p>There are no requests to approve</p>
+        }else
+        {
+            <table class="table table-responsive-lg">
+                <tr>
+                    <th>Company Name</th>
+                    <th>Moderator</th>
+                    <th>Description</th>
+                    <th>Approve</th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Naziv</td>
+                        <td>@item.Moderator.KorisnickoIme</td>
+                        <td>@item.Opis</td>
+                        <td>
+                            <form asp-action="Requests" asp-controller="Admin" method="post">
+                                <button type="submit" class="btn" value="@item.TvrtkaId" name="id">Approve request</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+
+    </body>
+</html>

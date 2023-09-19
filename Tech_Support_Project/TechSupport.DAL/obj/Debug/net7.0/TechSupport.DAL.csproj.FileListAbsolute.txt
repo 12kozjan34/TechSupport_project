@@ -1,0 +1,12 @@
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\bin\Debug\net7.0\TechSupport.DAL.deps.json
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\bin\Debug\net7.0\TechSupport.DAL.dll
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\bin\Debug\net7.0\TechSupport.DAL.pdb
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\TechSupport.DAL.csproj.AssemblyReference.cache
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\TechSupport.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\TechSupport.DAL.AssemblyInfoInputs.cache
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\TechSupport.DAL.AssemblyInfo.cs
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\TechSupport.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\TechSupport.DAL.dll
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\refint\TechSupport.DAL.dll
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\TechSupport.DAL.pdb
+C:\Users\kozja\Desktop\Tech_support\Tech_Support_Project\TechSupport.DAL\obj\Debug\net7.0\ref\TechSupport.DAL.dll

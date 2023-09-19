@@ -1,0 +1,29 @@
+﻿@using Tech_Support.ViewModels
+@{
+}
+
+<html>
+    <head>
+        <title>Admin - XML Data</title>
+        <style>
+            .btn{
+                border-radius: 20px;
+                border: 1px solid #FF4B2B;
+                background-color: #FF4B2B;
+                color: #FFFFFF;
+                font-size: 12px;
+                font-weight: bold;
+                padding: 12px 45px;
+                letter-spacing: 1px;
+                transition: transform 80ms ease-in;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Download users as Xml</h1>
+        <form asp-action="XmlDownload" asp-controller="Admin" method="get">
+            <button type="submit" class="btn">Download</button>
+        </form>
+    </body>
+</html>
+

@@ -1,0 +1,16 @@
+﻿@{
+}
+
+<html>
+    <head>
+        <title>Admin - Blocked</title>
+        <link rel="stylesheet" href="/css/Admin/Index.css" />
+    </head>
+    <body>
+        <div class="container">
+            <h1>Admin page</h1>
+            <p>Accounts that are blocked: @ViewBag.Blocked</p>
+            @Html.ActionLink("Check", "BlockedAccounts")
+        </div>
+    </body>
+</html>

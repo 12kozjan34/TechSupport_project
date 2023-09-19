@@ -1,0 +1,57 @@
+﻿@using Tech_Support.ViewModels
+@model IEnumerable<VMUser>
+@{
+}
+
+<html>
+    <head>
+        <title>Admin - Users</title>
+        <link rel="stylesheet" href="/css/Admin/Users.css"/>
+    </head>
+    <body>
+        <div class="heading-container">
+            <h1>List of all users</h1>
+            <button type="submit" class="btn">
+                <a href="@Url.Action("CreateUser", "Admin")">Create new user</a>
+            </button>
+        </div>
+        <table class="table table-bordered table-striped">
+            <tr>
+                <th>Username</th>
+                <th>First name</th>
+                <th>Last name</th>
+                <th>Email</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.KorisnickoIme</td>
+                    <td>@item.Ime</td>
+                    <td>@item.Prezime</td>
+                    <td>@item.Email</td>
+                    <td>
+                        <a href="@Url.Action("EditUser", "Admin", new { id = item.KorisnikId })">Edit</a>
+                    </td>
+                </tr>
+            }
+        </table>
+        <div class="pagination">
+            @if ((int)ViewData["pageNumber"] > 1)
+            {
+                <a class="activeBtn" href="@Url.Action("Users", new { page = (int)ViewData["pageNumber"] - 1 })">Previous</a>
+            }
+              
+            @for (int i = 1; i <= (int)ViewData["totalPages"]; i++)
+            {
+                <span class="pagination-number" class="@(i == (int)ViewData["pageNumber"] ? "active" : "")">
+                    <a id="link" href="@Url.Action("Users", new { page = i })">@i </a>
+                </span>
+            }
+
+            @if ((int)ViewData["pageNumber"] < (int)ViewData["totalPages"])
+            {
+            <a class="activeBtn" href="@Url.Action("Users", new { page = (int)ViewData["pageNumber"] + 1 })">Next</a>
+            }
+        </div>
+    </body>
+</html>

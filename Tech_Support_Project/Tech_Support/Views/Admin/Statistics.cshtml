@@ -1,0 +1,75 @@
+﻿@using Tech_Support.ViewModels
+@{
+    IEnumerable<VMCompany> companies = ViewData["companies"] as IEnumerable<VMCompany>;
+    IEnumerable<VMEmployerRanking> employers = ViewData["ranked"] as IEnumerable<VMEmployerRanking>;
+}
+
+<html>
+    <head>
+        <title>Statistics</title>
+        <style>
+            .accordion-item {
+                cursor: pointer;
+                background-color: #f8f9fa;
+                border: 1px solid #ccc;
+                margin-bottom: 10px;
+                border-radius: 5px;
+            }
+
+            .accordion-item:hover {
+                background-color: #e9ecef;
+            }
+
+            .accordion-item h5 {
+                margin: 0;
+                padding: 10px;
+            }
+
+            .additional-info {
+                display: none;
+                background-color: #fff;
+                padding: 15px;
+            }
+        </style>
+    </head>
+    <body>
+
+        <h1>Statistics</h1>
+        <p>Here is statistics for the companies</p>
+        @foreach (var item in companies)
+        {
+            <li class="accordion-item">
+                @item.Naziv
+                   <div class="additional-info">
+                       <table class="table table-responsive-md">
+                          <tr>
+                              <th>Employer</th>
+                              <th>Number of questions</th>
+                          </tr>
+                            @foreach (var employer in employers)
+                            {
+                               @if (employer.TvrtkaId == item.TvrtkaId)
+                               {
+                                   <tr>
+                                       <td>@employer.Eployer.KorisnickoIme</td>
+                                       <td>@employer.NumberOfQuestions</td>
+                                   </tr>
+                               }
+                            }
+                       </table>
+                    </div>
+            </li>
+        }
+    </body>
+</html>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".accordion-item").click(function () {
+            $(this).find(".additional-info").slideToggle();
+            $(".accordion-item").not(this).find(".additional-info").slideUp();
+        });
+    });
+</script>

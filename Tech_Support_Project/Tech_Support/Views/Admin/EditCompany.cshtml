@@ -1,0 +1,48 @@
+﻿@using Tech_Support.ViewModels
+@model VMCompany
+@{
+    IEnumerable<VMUser>moderatori = ViewData["Moderatori"] as IEnumerable<VMUser>;
+}
+<html>
+<head>
+    <title>Admin - Edit user</title>
+    <style>
+        .btn{
+            border-radius: 20px;
+            border: 1px solid #FF4B2B;
+            background-color: #FF4B2B;
+            color: #FFFFFF;
+            font-size: 12px;
+            font-weight: bold;
+            padding: 12px 45px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: transform 80ms ease-in;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="EditCompany" asp-controller="Admin">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <input type="hidden" asp-for="TvrtkaId" />
+                    <label asp-for="Naziv" class="control-label">Name</label>
+                    <input asp-for="Naziv" class="form-control" />
+                    <span asp-validation-for="Naziv" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Opis" class="control-label">Username</label>
+                    <textarea asp-for="Opis" class="form-control"></textarea>
+                    <span asp-validation-for="Opis" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn" />
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

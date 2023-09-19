@@ -1,0 +1,47 @@
+﻿@using Tech_Support.ViewModels
+@model Tech_Support.ViewModels.VMQuestion
+@{
+    IEnumerable<VMCompany> tvrtke = ViewData["Companies"] as IEnumerable<VMCompany>;
+}
+
+<html>
+    <head>
+        <title>Send Question</title>
+        <link rel="stylesheet" href="/css/Annonimous/SendQuestion.css" />
+    </head>
+    <body>
+    <h1>Send Question</h1>
+    <p>Here you can send question's to one of many of our companies</p>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="SendQuestion" asp-controller="Annonimous" method="post">
+                    <div class="form-group">
+                        <label asp-for="Tvrtka" class="control-label">Company</label>
+                        @Html.DropDownListFor(m => m.TvrtkaId, new SelectList(tvrtke, "TvrtkaId", "Naziv"), "Choose a company", new { @class = "form-control"})
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Naslov" class="control-label">Title</label>
+                        <input asp-for="Naslov" class="form-control" required/>
+                        <span asp-validation-for="Naslov" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Tekst" class="control-label">Text</label>
+                        <textarea asp-for="Tekst" class="form-control" required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Slika" class="control-label">Image</label>
+                        @Html.TextBoxFor(m => m.Slika, new { type = "file", multiple = "multiple", accept = "image/jpeg, image/jpg", @class = "form-control"})
+                        <br />
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Create</button>
+                    </div>
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>
+

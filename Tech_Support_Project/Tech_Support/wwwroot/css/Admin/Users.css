@@ -1,0 +1,50 @@
+﻿.heading-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn a {
+    border-radius: 20px;
+    border: 1px solid #FF4B2B;
+    background-color: #FF4B2B;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    text-decoration: none;
+}
+
+.table td a {
+    text-decoration: none;
+    color: #FF4B2B;
+}
+
+.pagination-number {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    color: #333;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.pagination-number #link {
+    text-decoration: none;
+     color: #FF4B2B;
+}
+
+.pagination .activeBtn{
+    text-decoration:none;
+    color: #FF4B2B;
+}
+
+.pagination-number.active {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
