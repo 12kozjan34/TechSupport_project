@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\Fonts\\nucleo.woff2"
     },
     {
+      "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\ProfileImage\\NoImage.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\NoImage.jpg"
+    },
+    {
       "Id": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\BlockedAccounts.css",
       "PackagePath": "staticwebassets\\css\\Admin\\BlockedAccounts.css"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a6P5u74sMqj3KtAreEn3+KFlVH6GduxMoQiBQAPjDiY=",
+  "Hash": "si4seSB3guvtbo/45PNWAnORPJTp/Eogf/Bdzu1kMwk=",
   "Source": "Tech_Support",
   "BasePath": "_content/Tech_Support",
   "Mode": "Default",
@@ -2769,6 +2769,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\ProfileImage\\NoImage.jpg",
+      "SourceId": "Tech_Support",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "BasePath": "_content/Tech_Support",
+      "RelativePath": "ProfileImage/NoImage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfileImage\\NoImage.jpg"
     }
   ]
 }

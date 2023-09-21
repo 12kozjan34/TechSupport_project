@@ -71,6 +71,9 @@
                                 </li>
                             </ul>
                         </li>
+                        <li>
+                            <a asp-controller="Home" asp-action="UserProfile">Profile</a>
+                        </li>
                     }
                     @if (role == "Moderator")
                     {
@@ -93,11 +96,17 @@
                                 </li>
                             </ul>
                         </li>
+                        <li>
+                            <a asp-controller="Home" asp-action="UserProfile">Profile</a>
+                        </li>
                     }
                     @if (role == "User")
                     {
                         <li>
                             <a asp-controller="Registered" asp-action="Index">Questions</a>
+                        </li>
+                        <li>
+                            <a asp-controller="Home" asp-action="UserProfile">Profile</a>
                         </li>
                     }
                     <li>

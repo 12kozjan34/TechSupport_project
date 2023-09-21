@@ -164,10 +164,11 @@ namespace TechSupport.DAL.Repositories
         {
             var dbUser = dbContext.Korisniks.FirstOrDefault(v=>v.KorisnikId == id);
 
+            /*
             if (dbUser.TipId == 1 || dbUser.Zaposlen == true)
             {
                 throw new Exception("You can't change from moderator to user, or user is already employed");
-            }
+            }*/
 
             dbUser.Ime = blUser.Ime;
             dbUser.Prezime = blUser.Prezime;
@@ -175,6 +176,10 @@ namespace TechSupport.DAL.Repositories
             dbUser.Email = blUser.Email;
             dbUser.TipId = blUser.TipId;
             dbUser.Zaposlen = false;
+            if (blUser.Slika!=null)
+            {
+                dbUser.Slika = blUser.Slika; 
+            }
 
             dbContext.SaveChanges();
         }
