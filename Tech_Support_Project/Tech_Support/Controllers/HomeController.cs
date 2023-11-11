@@ -46,34 +46,35 @@ namespace Tech_Support.Controllers
                 var vmUser = mapper.Map<VMUser>(blUser);
 
                 //path for wwwroot folder
-                var webRootPath = _hostingEnvironment.WebRootPath;
-                var wwwRootPath = Path.Combine(webRootPath, "ProfileImage", vmUser.Slika);
-
-                var picturePath = parent + "/Images/" +  vmUser.Slika;
-
-                //This is check for if picture we are trying to show desn't exist in external folder, sets to default image and deletes image from wwwroot folder
-                if (!System.IO.File.Exists(picturePath))
+                if (vmUser!=null)
                 {
-                    if (System.IO.File.Exists(wwwRootPath))
+                    var webRootPath = _hostingEnvironment.WebRootPath;
+                    var wwwRootPath = Path.Combine(webRootPath, "ProfileImage", vmUser.Slika);
+
+                    var picturePath = parent + "/Images/" + vmUser.Slika;
+
+                    //This is check for if picture we are trying to show desn't exist in external folder, sets to default image and deletes image from wwwroot folder
+                    if (!System.IO.File.Exists(picturePath))
                     {
-                        System.IO.File.Delete(wwwRootPath); 
+                        if (System.IO.File.Exists(wwwRootPath))
+                        {
+                            System.IO.File.Delete(wwwRootPath);
+                        }
+
+                        picturePath = parent + "/Images/NoImage.jpg";
+                        vmUser.Slika = "NoImage.jpg";
+                        userRepo.Update(vmUser.KorisnikId, mapper.Map<BLUser>(vmUser));
+                    } 
+
+                    byte[] fileBytes  = System.IO.File.ReadAllBytes(picturePath);
+                    IFormFile file = new FormFile(new MemoryStream(fileBytes), 0, fileBytes.Length, "name", Path.GetFileName(picturePath));
+
+                    if (!System.IO.File.Exists(vmUser.Slika))
+                    {
+                        AddToWwwRootAsync(file);
                     }
-
-                    picturePath = parent + "/Images/NoImage.jpg";
-                    vmUser.Slika = "NoImage.jpg";
-                    userRepo.Update(vmUser.KorisnikId,mapper.Map<BLUser>(vmUser));
-
+                    return View(vmUser);
                 }
-
-                byte[] fileBytes  = System.IO.File.ReadAllBytes(picturePath);
-                IFormFile file = new FormFile(new MemoryStream(fileBytes), 0, fileBytes.Length, "name", Path.GetFileName(picturePath));
-
-                if (!System.IO.File.Exists(vmUser.Slika))
-                {
-                    AddToWwwRootAsync(file);
-                }
-
-                return View(vmUser);
             }
             return View();
         }
@@ -113,9 +114,12 @@ namespace Tech_Support.Controllers
             {
                 UploadImageAsync(file);
             }
-            
+
             //Update image name in database
-            vmUser.Slika = file.FileName;
+            if (file!=null)
+            {
+                vmUser.Slika = file.FileName; 
+            }
 
             var blUser = mapper.Map<BLUser>(vmUser);
             userRepo.Update(id, blUser);

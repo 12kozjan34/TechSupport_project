@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6xpOngadMxHTm6w1LgvtMdj7iSVxWBUaeFsRy47FzGNnVjg0MPwZNyb8GIcTmb4qACMd6WaQAmLDDCEQRcHIrw==",
+  "dgSpecHash": "/QN2m/oxPmMOUaruhvhnBIq4ebpiZzTQftPsSu/1ApeSQXkKjGo9Q4PoG5zMAk+KDwDFeD/l/XkMpE3/PmniUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
+  "projectFilePath": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kozja\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\kozja\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

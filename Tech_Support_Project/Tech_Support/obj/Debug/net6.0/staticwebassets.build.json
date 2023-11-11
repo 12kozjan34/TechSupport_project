@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "si4seSB3guvtbo/45PNWAnORPJTp/Eogf/Bdzu1kMwk=",
+  "Hash": "e9pSm5/R9OUUsg6Z5tw3ZtpUZ57vMdjLyE716pqoRkE=",
   "Source": "Tech_Support",
   "BasePath": "_content/Tech_Support",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Tech_Support\\wwwroot",
       "Source": "Tech_Support",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tech_Support.styles.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tech_Support.styles.css",
       "SourceId": "Tech_Support",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Tech_Support.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tech_Support.styles.css"
+      "OriginalItemSpec": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tech_Support.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tech_Support.bundle.scp.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tech_Support.bundle.scp.css",
       "SourceId": "Tech_Support",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Tech_Support.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tech_Support.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tech_Support.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\BlockedAccounts.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\BlockedAccounts.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Admin/BlockedAccounts.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Admin\\BlockedAccounts.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Companies.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Companies.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Admin/Companies.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Admin\\Companies.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\CreateCompany.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\CreateCompany.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Admin/CreateCompany.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Admin\\CreateCompany.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Index.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Index.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Admin/Index.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Admin\\Index.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Users.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Admin\\Users.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Admin/Users.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Admin\\Users.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Annonimous\\Index.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Annonimous\\Index.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Annonimous/Index.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Annonimous\\Index.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Annonimous\\SendQuestion.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Annonimous\\SendQuestion.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Annonimous/SendQuestion.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Annonimous\\SendQuestion.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\AnswerQuestion.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\AnswerQuestion.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/AnswerQuestion.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AnswerQuestion.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Login.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Login.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Login.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Login.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Main.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Main.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Main.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Main.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/material-dashboard.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\material-dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/material-dashboard.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\material-dashboard.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\material-dashboard.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/material-dashboard.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\material-dashboard.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Moderator\\AddEmploye.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Moderator\\AddEmploye.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Moderator/AddEmploye.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Moderator\\AddEmploye.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Moderator\\Index.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Moderator\\Index.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Moderator/Index.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Moderator\\Index.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Nav.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Nav.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Nav.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Nav.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\nucleo-icons.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\nucleo-icons.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/nucleo-icons.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nucleo-icons.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\nucleo-svg.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\nucleo-svg.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/nucleo-svg.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nucleo-svg.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Registered\\Index.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\Registered\\Index.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/Registered/Index.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Registered\\Index.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\css\\site.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\favicon.ico",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.eot",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.eot",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo.eot",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo.eot"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.ttf",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.ttf",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo.ttf"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.woff",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.woff",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo.woff",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo.woff"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.woff2",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo.woff2",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo.woff2",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo.woff2"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.eot",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.eot",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo-icons.eot",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo-icons.eot"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo-icons.svg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo-icons.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.ttf",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.ttf",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo-icons.ttf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo-icons.ttf"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.woff",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.woff",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo-icons.woff",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.woff2",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\Fonts\\nucleo-icons.woff2",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "Fonts/nucleo-icons.woff2",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\nucleo-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\AU.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\AU.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/icons/flags/AU.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\flags\\AU.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\BR.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\BR.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/icons/flags/BR.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\flags\\BR.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\DE.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\DE.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/icons/flags/DE.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\flags\\DE.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\GB.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\GB.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/icons/flags/GB.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\flags\\GB.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\US.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\icons\\flags\\US.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/icons/flags/US.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\flags\\US.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\chat.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\chat.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/chat.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\chat.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\danger-chat-ill.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\danger-chat-ill.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/danger-chat-ill.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\danger-chat-ill.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\dark-lock-ill.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\dark-lock-ill.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/dark-lock-ill.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\dark-lock-ill.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\error-404.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\error-404.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/error-404.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\error-404.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\error-500.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\error-500.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/error-500.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\error-500.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-lock.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-lock.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/illustration-lock.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\illustration-lock.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-reset.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-reset.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/illustration-reset.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\illustration-reset.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-signin.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-signin.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/illustration-signin.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\illustration-signin.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-signup.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-signup.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/illustration-signup.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\illustration-signup.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-verification.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\illustration-verification.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/illustration-verification.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\illustration-verification.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\lock.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\lock.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/lock.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\lock.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\pattern-tree.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\pattern-tree.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/pattern-tree.svg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\pattern-tree.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\rocket-white.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\illustrations\\rocket-white.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/illustrations/rocket-white.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\illustrations\\rocket-white.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\korisnici\\admin.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\korisnici\\admin.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/korisnici/admin.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\korisnici\\admin.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-coinbase.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-coinbase.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/logos/gray-logos/logo-coinbase.svg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\gray-logos\\logo-coinbase.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-nasa.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-nasa.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/logos/gray-logos/logo-nasa.svg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\gray-logos\\logo-nasa.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-netflix.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-netflix.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/logos/gray-logos/logo-netflix.svg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\gray-logos\\logo-netflix.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-pinterest.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-pinterest.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/logos/gray-logos/logo-pinterest.svg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\gray-logos\\logo-pinterest.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-spotify.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-spotify.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/logos/gray-logos/logo-spotify.svg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\gray-logos\\logo-spotify.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-vodafone.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\gray-logos\\logo-vodafone.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/logos/gray-logos/logo-vodafone.svg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\gray-logos\\logo-vodafone.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\mastercard.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\mastercard.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/logos/mastercard.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\mastercard.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\visa.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\logos\\visa.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/logos/visa.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\visa.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-11.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-11.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-11.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-1-min.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-1-min.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-1-min.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-1-min.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-2-min.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-2-min.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-2-min.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-2-min.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-3-min.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-3-min.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-3-min.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-3-min.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-4-min.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-4-min.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-4-min.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-4-min.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-5-min.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-5-min.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-5-min.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-5-min.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-6-min.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-6-min.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-6-min.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-6-min.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-7-min.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-7-min.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-7-min.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-7-min.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-1.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-1.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-details-1.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-2.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-2.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-details-2.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-3.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-3.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-details-3.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-details-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-4.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-4.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-details-4.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-details-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-5.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\products\\product-details-5.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/products/product-details-5.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-details-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\shapes\\pattern-lines.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\shapes\\pattern-lines.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/shapes/pattern-lines.svg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shapes\\pattern-lines.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\shapes\\waves-white.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\shapes\\waves-white.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/shapes/waves-white.svg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shapes\\waves-white.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\bootstrap.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\bootstrap.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/bootstrap.svg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\bootstrap.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\creative-tim.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\creative-tim.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/creative-tim.svg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\creative-tim.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\devto.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\devto.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/devto.svg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\devto.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\github.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\github.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/github.svg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\github.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\google-webdev.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\google-webdev.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/google-webdev.svg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\google-webdev.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\icon-bulb.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\icon-bulb.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/icon-bulb.svg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\icon-bulb.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\icon-sun-cloud.png",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\icon-sun-cloud.png",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/icon-sun-cloud.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-asana.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-asana.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/logo-asana.svg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\logo-asana.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-atlassian.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-atlassian.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/logo-atlassian.svg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\logo-atlassian.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-invision.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-invision.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/logo-invision.svg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\logo-invision.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-jira.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-jira.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/logo-jira.svg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\logo-jira.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-slack.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-slack.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/logo-slack.svg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\logo-slack.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-spotify.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-spotify.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/logo-spotify.svg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\logo-spotify.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-xd.svg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\images\\small-logos\\logo-xd.svg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "images/small-logos/logo-xd.svg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\small-logos\\logo-xd.svg"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Annonimous\\Index.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Annonimous\\Index.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/Annonimous/Index.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Annonimous\\Index.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/core/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\core\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\bootstrap.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\bootstrap.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/core/bootstrap.min.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\core\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\popper.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\core\\popper.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/core/popper.min.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\js\\core\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/material-dashboard.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\js\\material-dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.js.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.js.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/material-dashboard.js.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\js\\material-dashboard.js.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\material-dashboard.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/material-dashboard.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\material-dashboard.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Moderator\\AddEmploye.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Moderator\\AddEmploye.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/Moderator/AddEmploye.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Moderator\\AddEmploye.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\bootstrap-notify.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/plugins/bootstrap-notify.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\Chart.extension.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\Chart.extension.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/plugins/Chart.extension.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\Chart.extension.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\chartjs.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/plugins/chartjs.min.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\countup.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\countup.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/plugins/countup.min.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\countup.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/plugins/perfect-scrollbar.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/plugins/smooth-scrollbar.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\world.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\plugins\\world.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/plugins/world.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\world.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Registered\\Index.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\Registered\\Index.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/Registered/Index.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Registered\\Index.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\js\\site.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2771,10 +2771,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\ProfileImage\\NoImage.jpg",
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\ProfileImage\\mfox.jpg",
       "SourceId": "Tech_Support",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
+      "BasePath": "_content/Tech_Support",
+      "RelativePath": "ProfileImage/mfox.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfileImage\\mfox.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\ProfileImage\\NoImage.jpg",
+      "SourceId": "Tech_Support",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\",
       "BasePath": "_content/Tech_Support",
       "RelativePath": "ProfileImage/NoImage.jpg",
       "AssetKind": "All",

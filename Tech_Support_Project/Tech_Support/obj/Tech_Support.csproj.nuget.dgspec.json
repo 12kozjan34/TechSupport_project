@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\Tech_Support.csproj": {}
+    "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\Tech_Support.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj": {
+    "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
         "projectName": "TechSupport.DAL",
-        "projectPath": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
+        "projectPath": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
         "packagesPath": "C:\\Users\\kozja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\obj\\",
+        "outputPath": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kozja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,18 +89,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\Tech_Support.csproj": {
+    "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\Tech_Support.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\Tech_Support.csproj",
+        "projectUniqueName": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\Tech_Support.csproj",
         "projectName": "Tech_Support",
-        "projectPath": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\Tech_Support.csproj",
+        "projectPath": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\Tech_Support.csproj",
         "packagesPath": "C:\\Users\\kozja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\",
+        "outputPath": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kozja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,8 +117,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj": {
-                "projectPath": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj"
+              "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj": {
+                "projectPath": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj"
               }
             }
           }
@@ -195,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

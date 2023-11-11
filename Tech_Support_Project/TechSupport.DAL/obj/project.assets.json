@@ -3630,11 +3630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
       "projectName": "TechSupport.DAL",
-      "projectPath": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
+      "projectPath": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\TechSupport.DAL.csproj",
       "packagesPath": "C:\\Users\\kozja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kozja\\Desktop\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\obj\\",
+      "outputPath": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\TechSupport.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kozja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3712,7 +3712,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
