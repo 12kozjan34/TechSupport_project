@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\ProfileImage\\NoImage.jpg"
     },
     {
+      "Id": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\ProfileImage\\download.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\download.jpg"
+    },
+    {
       "Id": "C:\\Users\\kozja\\Desktop\\Posao\\Tech_support\\Tech_Support_Project\\Tech_Support\\wwwroot\\ProfileImage\\mfox.jpg",
       "PackagePath": "staticwebassets\\ProfileImage\\mfox.jpg"
     },

@@ -28,7 +28,7 @@ public partial class ProjektContext : DbContext
     public virtual DbSet<Zaposlenik> Zaposleniks { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Server=tcp:ppkdb.database.windows.net,1433;Initial Catalog=projekt;Persist Security Info=False;User ID=sas;Password=Password!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+        => optionsBuilder.UseSqlServer("Server=tcp:ppkdb.database.windows.net,1433;Initial Catalog=Zadatak03;Persist Security Info=False;User ID=sas;Password=Password1!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
